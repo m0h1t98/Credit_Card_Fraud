@@ -1,5 +1,10 @@
 # Credit Card Fraud Detection
 
+# Object
+The objective of this project to classify the credit card fraud detection. Basically 'Class' variable is the target variable.
+
+# Challenges 
+
 This dataset is used to detect the credit card fraud detection. This is a classification problem. This is an imbalanced dataset based on target variable. So In this Project, I will use encoding and decording techniques to balanced dataset.
 
 These are various techniques as follows -
