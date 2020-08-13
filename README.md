@@ -12,3 +12,10 @@ These are various techniques as follows -
 
 
 # Dependency 
+
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. sklearn
+6. ibmlearn
