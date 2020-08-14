@@ -45,3 +45,9 @@ pip install imbalanced-learn
 You have to download Credit Card Fraud Detection Dataset (CSV File) from Kaggle.
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+# Best Techniques / Algorithms
+
+1. Over Sampling with Random Forest
+2. Random Forest with GridSearchCV
+3. SMOTETomek
